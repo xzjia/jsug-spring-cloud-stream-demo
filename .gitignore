@@ -1,4 +1,7 @@
-/target/
+.classpath
+.project
+.settings/
+target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -23,3 +26,9 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### VS Code ###
+.vscode
+
+### Mac ###
+.DS_Store
