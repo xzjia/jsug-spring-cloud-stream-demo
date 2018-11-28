@@ -1,9 +1,23 @@
 
-   ___ _____ _   _ _____  ______           _
-  |_  /  ___| | | |  __ \ | ___ \         | |
-    | \ `--.| | | | |  \/ | |_/ /___   ___| | _____
-    | |`--. \ | | | | __  |    // _ \ / __| |/ / __|
-/\__/ /\__/ / |_| | |_\ \ | |\ \ (_) | (__|   <\__ \
-\____/\____/ \___/ \____/ \_| \_\___/ \___|_|\_\___/
+
+
+
+          JJJJJJJJJJJ   SSSSSSSSSSSSSSS UUUUUUUU     UUUUUUUU       GGGGGGGGGGGGG     RRRRRRRRRRRRRRRRR                                        kkkkkkkk
+          J:::::::::J SS:::::::::::::::SU::::::U     U::::::U    GGG::::::::::::G     R::::::::::::::::R                                       k::::::k
+          J:::::::::JS:::::SSSSSS::::::SU::::::U     U::::::U  GG:::::::::::::::G     R::::::RRRRRR:::::R                                      k::::::k
+          JJ:::::::JJS:::::S     SSSSSSSUU:::::U     U:::::UU G:::::GGGGGGGG::::G     RR:::::R     R:::::R                                     k::::::k
+            J:::::J  S:::::S             U:::::U     U:::::U G:::::G       GGGGGG       R::::R     R:::::R   ooooooooooo       cccccccccccccccc k:::::k    kkkkkkk  ssssssssss
+            J:::::J  S:::::S             U:::::D     D:::::UG:::::G                     R::::R     R:::::R oo:::::::::::oo   cc:::::::::::::::c k:::::k   k:::::k ss::::::::::s
+            J:::::J   S::::SSSS          U:::::D     D:::::UG:::::G                     R::::RRRRRR:::::R o:::::::::::::::o c:::::::::::::::::c k:::::k  k:::::kss:::::::::::::s
+            J:::::j    SS::::::SSSSS     U:::::D     D:::::UG:::::G    GGGGGGGGGG       R:::::::::::::RR  o:::::ooooo:::::oc:::::::cccccc:::::c k:::::k k:::::k s::::::ssss:::::s
+            J:::::J      SSS::::::::SS   U:::::D     D:::::UG:::::G    G::::::::G       R::::RRRRRR:::::R o::::o     o::::oc::::::c     ccccccc k::::::k:::::k   s:::::s  ssssss
+JJJJJJJ     J:::::J         SSSSSS::::S  U:::::D     D:::::UG:::::G    GGGGG::::G       R::::R     R:::::Ro::::o     o::::oc:::::c              k:::::::::::k      s::::::s
+J:::::J     J:::::J              S:::::S U:::::D     D:::::UG:::::G        G::::G       R::::R     R:::::Ro::::o     o::::oc:::::c              k:::::::::::k         s::::::s
+J::::::J   J::::::J              S:::::S U::::::U   U::::::U G:::::G       G::::G       R::::R     R:::::Ro::::o     o::::oc::::::c     ccccccc k::::::k:::::k  ssssss   s:::::s
+J:::::::JJJ:::::::J  SSSSSSS     S:::::S U:::::::UUU:::::::U  G:::::GGGGGGGG::::G     RR:::::R     R:::::Ro:::::ooooo:::::oc:::::::cccccc:::::ck::::::k k:::::k s:::::ssss::::::s
+ JJ:::::::::::::JJ   S::::::SSSSSS:::::S  UU:::::::::::::UU    GG:::::::::::::::G     R::::::R     R:::::Ro:::::::::::::::o c:::::::::::::::::ck::::::k  k:::::ks::::::::::::::s
+   JJ:::::::::JJ     S:::::::::::::::SS     UU:::::::::UU        GGG::::::GGG:::G     R::::::R     R:::::R oo:::::::::::oo   cc:::::::::::::::ck::::::k   k:::::ks:::::::::::ss
+     JJJJJJJJJ        SSSSSSSSSSSSSSS         UUUUUUUUU             GGGGGG   GGGG     RRRRRRRR     RRRRRRR   ooooooooooo       cccccccccccccccckkkkkkkk    kkkkkkksssssssssss
+
 
 ${Ansi.RED} :: Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
